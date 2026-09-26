@@ -10,11 +10,15 @@ Studio desktop per creare immagini e video di marketing dai propri prodotti, con
 
 1. Chiudi la versione precedente e avvia `CreatorFlow-AI-Setup.exe`.
 2. Usa il collegamento **CreatorFlow AI** creato dall’installazione.
-3. Da **Impostazioni → Aggiornamenti**, scarica gli aggiornamenti successivi e scegli **Riavvia e aggiorna** quando le produzioni sono terminate.
+3. Dalla 1.8.0 apri **Aggiornamenti** nella barra laterale, scarica e scegli **Riavvia e aggiorna** quando le produzioni sono terminate. Nelle versioni precedenti la voce si trova in **Impostazioni → Aggiornamenti**.
 
 Progetti, modelli e impostazioni rimangono nelle cartelle del tuo profilo Windows. Il link di download conserva sempre lo stesso nome; non occorre gestire più copie portatili. Le versioni precedenti alla 1.6 richiedono questa prima installazione.
 
-## Provare le sole foto dalla 1.7.1
+## Nuova interfaccia e aggiornamenti · 1.8.0
+
+Navigazione laterale fissa, home compatta, scelta Solo foto / Foto + video e modello creativo affiancati. Il centro aggiornamenti mostra versione, novità, avanzamento del download e un pulsante diverso per ogni operazione. Se qualcosa si interrompe, puoi riprovare il passaggio fallito. Il riavvio attende la fine delle produzioni.
+
+## Provare le sole foto
 
 In **Impostazioni**, salva la chiave Gemini e scegli **Produzione live**. Nello **Studio** seleziona **Solo foto**, compila le tre schede in **Modifica modello**, salva e inserisci il link in un nuovo progetto. Premi **Genera 3 foto**; se la coda è in pausa, riprendila. I risultati sono nel progetto → **Foto** e in **Apri cartella**.
 

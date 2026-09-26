@@ -14,6 +14,12 @@ Studio desktop per creare immagini e video di marketing dai propri prodotti, con
 
 Progetti, modelli e impostazioni rimangono nelle cartelle del tuo profilo Windows. Il link di download conserva sempre lo stesso nome; non occorre gestire più copie portatili. Le versioni precedenti alla 1.6 richiedono questa prima installazione.
 
+## Provare le sole foto dalla 1.7.1
+
+In **Impostazioni**, salva la chiave Gemini e scegli **Produzione live**. Nello **Studio** seleziona **Solo foto**, compila le tre schede in **Modifica modello**, salva e inserisci il link in un nuovo progetto. Premi **Genera 3 foto**; se la coda è in pausa, riprendila. I risultati sono nel progetto → **Foto** e in **Apri cartella**.
+
+Non servono chiave HeyGen, script video, ID avatar HeyGen o voce. La generazione si conclude dopo le tre foto approvate e usa credito Gemini. La modalità Demo simula le generazioni. Se il negozio non espone la descrizione, completala nella scheda del progetto e premi Riprova.
+
 ## Negozi riconosciuti dalla 1.7
 
 La coda accetta link di TikTok Shop, Amazon, Shopify, AliExpress, Temu e SHEIN. I lettori recuperano titolo, descrizione e foto pubblicamente disponibili, segnalando i dati mancanti. Amazon e Shopify hanno superato una prova reale con descrizione e più foto. AliExpress ha restituito foto ma non la descrizione nel prodotto provato. AliExpress, Temu e SHEIN restano sperimentali; le prove pubbliche di Temu e SHEIN sono state bloccate dal sito.

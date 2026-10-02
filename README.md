@@ -14,15 +14,22 @@ Studio desktop per creare immagini e video di marketing dai propri prodotti, con
 
 Progetti, modelli e impostazioni rimangono nelle cartelle del tuo profilo Windows. Il link di download conserva sempre lo stesso nome; non occorre gestire più copie portatili. Le versioni precedenti alla 1.6 richiedono questa prima installazione.
 
-## Nuova interfaccia e aggiornamenti · 1.8.0
+## Foto reali e recupero TikTok · 1.8.1
 
-Navigazione laterale fissa, home compatta, scelta Solo foto / Foto + video e modello creativo affiancati. Il centro aggiornamenti mostra versione, novità, avanzamento del download e un pulsante diverso per ogni operazione. Se qualcosa si interrompe, puoi riprovare il passaggio fallito. Il riavvio attende la fine delle produzioni.
+Nello Studio la scelta **Importazione senza AI / Generazione AI reale** è esplicita. **Solo foto** seleziona il formato; le anteprime Demo non sono foto generate e non mostrano punteggi di qualità simulati.
+
+Per un progetto Solo foto già importato in Demo, apri **Prodotto → Completa o aggiorna la scheda**. Se TikTok si vede solo sul telefono, trasferisci sul PC le foto originali, selezionale con **Aggiungi foto dal PC** e incolla la descrizione originale. Salvare i dati non avvia generazioni. Poi premi **Genera 3 foto reali**: conserva i tre testi già salvati, verifica i requisiti e avvia Gemini. Se la coda è in pausa, riprendila.
+
+La sessione TikTok del telefono è separata da quella del browser desktop. Il login non garantisce che TikTok renda accessibile la scheda Shop. Se una nuova lettura fallisce, i dati già importati rimangono salvati.
 
 ## Provare le sole foto
 
-In **Impostazioni**, salva la chiave Gemini e scegli **Produzione live**. Nello **Studio** seleziona **Solo foto**, compila le tre schede in **Modifica modello**, salva e inserisci il link in un nuovo progetto. Premi **Genera 3 foto**; se la coda è in pausa, riprendila. I risultati sono nel progetto → **Foto** e in **Apri cartella**.
+1. In **Impostazioni**, salva la chiave Gemini.
+2. Nello **Studio** scegli **Generazione AI reale** e **Solo foto**.
+3. Compila le tre schede in **Modifica modello** e salva. Se i testi sono già presenti, non serve riscriverli.
+4. Inserisci il link, premi **Genera 3 foto** e riprendi la coda se è in pausa. I risultati sono nel progetto → **Foto** e in **Apri cartella**.
 
-Non servono chiave HeyGen, script video, ID avatar HeyGen o voce. La generazione si conclude dopo le tre foto approvate e usa credito Gemini. La modalità Demo simula le generazioni. Se il negozio non espone la descrizione, completala nella scheda del progetto e premi Riprova.
+Non servono chiave HeyGen, script video, ID avatar HeyGen o voce. La generazione usa credito Gemini. Se un progetto Live si ferma per descrizione mancante, completala nella scheda e premi **Riprova**. Tutte le foto recuperate o aggiunte vengono incluse nei riferimenti del prodotto: massimo 60 foto e 120 MB complessivi; per l’importazione manuale, JPG, PNG o WebP fino a 12 MB ciascuna.
 
 ## Negozi riconosciuti dalla 1.7
 

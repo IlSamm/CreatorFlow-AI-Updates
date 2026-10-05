@@ -14,6 +14,12 @@ Studio desktop per creare immagini e video di marketing dai propri prodotti, con
 
 Progetti, modelli e impostazioni rimangono nelle cartelle del tuo profilo Windows. Il link di download conserva sempre lo stesso nome; non occorre gestire più copie portatili. Le versioni precedenti alla 1.6 richiedono questa prima installazione.
 
+## Prompt lunghi senza blocchi a 5.000 caratteri · 1.8.3
+
+Corretto il blocco `Too big` durante l’analisi: i tre prompt adattati al prodotto possono ora arrivare a 30.000 caratteri ciascuno, con lo stesso limite usato dall’archivio. L’app conserva le istruzioni originali e non tronca i prompt. Le risposte fuori limite o incomplete mostrano un messaggio leggibile.
+
+Aggiorna e premi **Riprova** sul progetto fermo. Non serve reinserire link, foto o testi. Collaudo: 319 test automatici superati, inclusi invio integrale dei prompt lunghi con API simulate e riapertura del progetto.
+
 ## Correzione Gemini HTTP 404 · 1.8.2
 
 Aggiornato il modello predefinito per analisi, prompt e controllo qualità a `gemini-3.5-flash-lite`. Google limita l’accesso alla serie 2.5 per i nuovi utilizzatori. Il vecchio valore predefinito viene migrato una volta; gli altri ID personalizzati restano invariati. Nano Banana usa `gemini-3.1-flash-image`.

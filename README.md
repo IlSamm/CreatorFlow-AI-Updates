@@ -14,6 +14,14 @@ Studio desktop per creare immagini e video di marketing dai propri prodotti, con
 
 Progetti, modelli e impostazioni rimangono nelle cartelle del tuo profilo Windows. Il link di download conserva sempre lo stesso nome; non occorre gestire più copie portatili. Le versioni precedenti alla 1.6 richiedono questa prima installazione.
 
+## Correzione Gemini HTTP 404 · 1.8.2
+
+Aggiornato il modello predefinito per analisi, prompt e controllo qualità a `gemini-3.5-flash-lite`. Google limita l’accesso alla serie 2.5 per i nuovi utilizzatori. Il vecchio valore predefinito viene migrato una volta; gli altri ID personalizzati restano invariati. Nano Banana usa `gemini-3.1-flash-image`.
+
+In **Impostazioni → Google Gemini**, **Verifica modelli** consulta il catalogo Google con la tua chiave senza generare contenuti. **Usa modelli consigliati** ripristina gli ID correnti: premi **Salva impostazioni** per applicarli. La presenza nel catalogo non conferma quota o fatturazione.
+
+Dopo l’aggiornamento apri il progetto già importato e premi **Riprova**: prodotto, foto originali e testi restano salvati. Gli errori 404 ora indicano esattamente il modello coinvolto.
+
 ## Foto reali e recupero TikTok · 1.8.1
 
 Nello Studio la scelta **Importazione senza AI / Generazione AI reale** è esplicita. **Solo foto** seleziona il formato; le anteprime Demo non sono foto generate e non mostrano punteggi di qualità simulati.
